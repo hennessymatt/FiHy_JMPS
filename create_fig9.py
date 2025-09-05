@@ -1,7 +1,7 @@
 """
 Plots the peak fluid-load fraction and the proportion of engaged
 fibres as a function of the initial swelling ratio.  Creates
-Fig 8
+Fig 9
 """
 
 import ucompress as uc

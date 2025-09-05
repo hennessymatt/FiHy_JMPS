@@ -1,0 +1,5 @@
+csv file columns are t [s], u [mm], strain [mm/mm]
+R = 5.145 [mm]
+H = 1.390 [mm]
+load = 5.000 [N]
+initial fluid fraction = 0.800 [-]

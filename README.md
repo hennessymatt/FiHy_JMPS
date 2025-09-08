@@ -6,4 +6,4 @@ isotropic, fibre-reinforced hydrogels".
 
 The code is written in Python and it makes use of the 
 [ucompress.py](https://github.com/hennessymatt/ucompress.py)
-package for carrying out simulations of unconfined compression experiments.
+package (v1.0.0) for carrying out simulations of unconfined compression experiments.
